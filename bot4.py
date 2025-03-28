@@ -24,9 +24,9 @@ from ta.trend import MACD
 import pytz
 import re
 from typing import Dict, Any, List, Optional
-
+from config import TOKEN
 # Configuration
-TOKEN = "8060618737:AAGZzrHaHTb1ZY7LD2xHE1GNAT-1ZAc9ujQ"
+#TOKEN = "You_token"
 CHAT_IDS_FILE = "chat_ids.json"
 ALERTS_FILE = "price_alerts.json"
 SETTINGS_FILE = "user_settings.json"
