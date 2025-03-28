@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+config.py
+user_settings.json
+price_data_cache.json
+forex_bot.log
+chat_ids.json
+bot.py

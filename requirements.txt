@@ -1,0 +1,6 @@
+yfinance
+pandas
+python-telegram-bot
+TA-Lib
+pytz
+"python-telegram-bot[job-queue]"
